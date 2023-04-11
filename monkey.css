@@ -1,0 +1,20 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#open{
+    
+    cursor: pointer;
+    font-size: 200px;
+    user-select: none;
+    display: none;
+}
+#close{
+    
+    cursor: pointer;
+    font-size: 200px;
+    user-select: none;
+   
+}
